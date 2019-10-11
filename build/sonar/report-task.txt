@@ -2,5 +2,5 @@ projectKey=org.baeldung:demo
 serverUrl=http://localhost:9000
 serverVersion=7.1.0.11001
 dashboardUrl=http://localhost:9000/dashboard/index/org.baeldung:demo
-ceTaskId=AW26WFNhGRCRSJESo5CL
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AW26WFNhGRCRSJESo5CL
+ceTaskId=AW26jgvQGRCRSJESo5CO
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW26jgvQGRCRSJESo5CO
