@@ -4,7 +4,7 @@ public class SampleImpl {
 
 	//This method just prints data on console.
 	public void printData() {
-		System.out.println("RANDOM_VAL");
+		System.out.println("WELCOME TO SAMPLE SPRING BOOT APPLICATION");
 	}
 	
 	/*

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.baeldung.implsTest.SampleImplTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-11T11:22:00" hostname="BLRKEC402696D" time="0.004">
+<testsuite name="org.baeldung.implsTest.SampleImplTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-23T06:48:20" hostname="BLRKEC350343D" time="0.0">
   <properties/>
-  <testcase name="saveDataTest" classname="org.baeldung.implsTest.SampleImplTest" time="0.001"/>
-  <testcase name="printDataTest" classname="org.baeldung.implsTest.SampleImplTest" time="0.002"/>
-  <system-out><![CDATA[RANDOM_VAL
+  <testcase name="saveDataTest" classname="org.baeldung.implsTest.SampleImplTest" time="0.0"/>
+  <testcase name="printDataTest" classname="org.baeldung.implsTest.SampleImplTest" time="0.0"/>
+  <system-out><![CDATA[WELCOME TO SAMPLE SPRING BOOT APPLICATION
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
